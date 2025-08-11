@@ -9,7 +9,7 @@ The key can be any integer, and the same key must be used for decryption.
 1. Encrypt Image
 2. Decrypt Image
 Enter choice (1/2): 1
-Enter input image path: myphoto.jpg
+Enter input image path: input.jpg
 Enter output image path: encrypted.png
 Enter encryption/decryption key (integer): 50
 Image encrypted and saved as encrypted.png
